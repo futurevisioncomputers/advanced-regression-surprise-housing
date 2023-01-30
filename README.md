@@ -124,7 +124,7 @@ You are required to model the price of houses with the available independent var
 
 ## Acknowledgements
 Give credit here.
-- This project was group case study for an online advance course.
+- This project was case study for an online advance course.
 - https://seaborn.pydata.org/
 - https://plotly.com/
 - https://pandas.pydata.org/
